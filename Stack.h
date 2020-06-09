@@ -16,4 +16,6 @@ class Stack : public LinkedList<T>{
 
 			return true;
 			}
+
+		// hw5
 };
